@@ -9,7 +9,7 @@ import java.util.Set;
 /**
  * The LengthyWordCounter program determines the largest word(s) in a sentence and the length of the word(s).
  *
- * @author  Kumar Shekhar
+ * @author  Raja Shekhar
  * @version 1.0
  * @since   1.0
  */
